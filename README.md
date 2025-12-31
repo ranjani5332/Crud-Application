@@ -43,6 +43,4 @@ task-management-system/
 - MongoDB running locally
 - Basic understanding of JavaScript
 
-Live server:https://github.com/ranjani5332/Crud-Application/blob/9941c550c8440ee8e170b4e4dc921998d7bb0c16/Screenshot_31-12-2025_181442_localhost.jpeg
-
 ![image alt](https://github.com/ranjani5332/Crud-Application/blob/9941c550c8440ee8e170b4e4dc921998d7bb0c16/Screenshot_31-12-2025_181442_localhost.jpeg)
