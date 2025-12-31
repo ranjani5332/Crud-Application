@@ -23,6 +23,13 @@ This project was built as part of a MERN Stack Internship Task to showcase core 
 - HTML & JavaScript
 - Git & GitHub
 
+# CRUD Operations
+
+- Operation  Description
+- Create - Add a new task
+- Read - View all tasks
+- Delete - Remove a task
+
 # Project Structure
 
 task-management-system/
